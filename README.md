@@ -1,5 +1,5 @@
 
-## Olá! Eu sou o Íttalo Lima Steltter 🖐️
+## Olá! Sou o Íttalo 🖐️
 
 [![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://web.whatsapp.com/send?phone=5567981562058)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ittalolz)
@@ -7,8 +7,8 @@
 
 <div>
   <a href="https://github.com/ittalolz">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ittalolz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ittalolz&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ittalolz&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ittalolz&layout=compact&langs_count=7&theme=radical"/>
 </div>
 
 
